@@ -1,0 +1,8 @@
+# Add yaml extension to section "Languages" in GitHub repository
+*.yaml linguist-detectable=true
+*.yml linguist-detectable=true
+*.sh linguist-detectable=true
+*.tf linguist-detectable=true
+*.py linguist-detectable=true
+*.c linguist-detectable=true
+*.cpp linguist-detectable=true
